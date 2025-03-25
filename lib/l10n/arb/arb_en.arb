@@ -1,0 +1,19 @@
+{
+    "@@locale": "en",
+    "mainScreenTitle": "Book your ride",
+    "choosePickup": "Choose a pickup point",
+    "chooseDropoff": "Choose a drop-off point",
+    "passengersNumber": "Passengers number",
+    "selectDate": "Select Date",
+    "selectTime": "Select Time",
+    "bookButtonTitle": "Book",
+    "confirmationTitle": "Booking confirmation",
+    "confirmationText": "Would you like to confirm your booking?",
+    "confirmationConfirmButtonTitle": "Confirm",
+    "confirmationCancelButtonTitle": "Cancel",
+    "chooseLocationTitle": "Choose a Location",
+    "confirmLocationButtonTitle": "Confirm the Location",
+    "confirmLocationMessage": "Please tap on the map to select a location",
+    "sucessfulBookingMessage": "Your ride has been booked!",
+    "emptyFieldsMessage": "Some of the fields are empty!"
+}
